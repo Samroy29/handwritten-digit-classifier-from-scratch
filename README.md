@@ -52,6 +52,8 @@ Each image shows:
 
 ## Results
 
+![Predictions](images/images_predictions.png)
+
 - Achieves **~70% accuracy** on the MNIST test set after a few epochs  
 - Demonstrates a full end-to-end learning pipeline with only basic NumPy
 
