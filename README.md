@@ -9,7 +9,7 @@ The system processes handwritten digit images (0–9) and classifies them using 
 
 ## Architecture
 
-![Architecture](images/architecture.png)
+![Architecture](images/cnn_architecture.png)
 
 Pipeline:
 
